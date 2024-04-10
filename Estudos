@@ -23,3 +23,8 @@ Repository Pattern
 
 Vitest
 npm i vite-tsconfig-paths -D
+
+https://martinfowler.com/bliki/InMemoryTestDatabase.html
+
+coverage
+Vitestui
