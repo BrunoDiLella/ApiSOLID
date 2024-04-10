@@ -20,3 +20,6 @@ npx prisma migrate dev
 bcryptjs
 
 Repository Pattern
+
+Vitest
+npm i vite-tsconfig-paths -D
