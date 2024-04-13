@@ -60,3 +60,5 @@ const api = axios.create({
 })                                                                     
 
  npm i @fastify/cookie
+
+ RBAC
